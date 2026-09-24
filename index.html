@@ -47,8 +47,8 @@
     
     <!-- Bilingual Alternates: English & Russian only -->
     <link rel="alternate" hreflang="x-default" href="https://sarkisian.teduza.com/" />
-    <link rel="alternate" hreflang="en" href="https://sarkisian.teduza.com/?lang=en" />
-    <link rel="alternate" hreflang="ru" href="https://sarkisian.teduza.com/?lang=ru" />
+    <link rel="alternate" hreflang="en" href="https://sarkisian.teduza.com/" />
+    <link rel="alternate" hreflang="ru" href="https://sarkisian.teduza.com/ru/" />
 
     <!-- Google Fonts: Cormorant Garamond (Editorial Serif with Cyrillic) + Inter (Clean Sans with Cyrillic) + JetBrains Mono -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -197,16 +197,24 @@
       ]
     },
     {
-      "@type": "Product",
-      "@id": "https://teduza.com/#product",
+      "@type": "SoftwareApplication",
+      "@id": "https://teduza.com/#software",
       "name": "M.A.R.S. Companion",
-      "alternateName": "Mobile Autonomous Reasoning System",
-      "description": "Private. Offline. Yours.",
+      "alternateName": [
+        "Mobile Autonomous Reasoning System",
+        "MARS Companion",
+        "M.A.R.S. Companion"
+      ],
+      "description": "Private. Offline. Yours. Portable offline voice assistant with sequential resource orchestration and semantic memory retrieval.",
       "url": "https://teduza.com",
-      "manufacturer": {
+      "applicationCategory": "AI Application",
+      "operatingSystem": "Embedded OS",
+      "creator": {
+        "@id": "https://sarkisian.teduza.com/#person"
+      },
+      "publisher": {
         "@id": "https://company.teduza.com/#organization"
       },
-      "category": "Offline AI Companion Device",
       "sameAs": [
         "https://www.wikidata.org/wiki/Q141448028",
         "https://teduza.com"
@@ -375,8 +383,8 @@
   ]
 }
     </script>
-    <script type="module" crossorigin src="/assets/index-DucW9L0k.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/index-NJtg4MjP.css">
+    <script type="module" crossorigin src="/assets/main-D9v7KelH.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/main-NJtg4MjP.css">
   </head>
   <body class="bg-[#0a0c10] text-[#eae7e1] antialiased selection:bg-[#c1440e]/30 selection:text-white">
     <div id="root"></div>

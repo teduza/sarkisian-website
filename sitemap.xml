@@ -8,8 +8,8 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sarkisian.teduza.com/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://sarkisian.teduza.com/?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sarkisian.teduza.com/?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sarkisian.teduza.com/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sarkisian.teduza.com/ru/"/>
     <image:image>
       <image:loc>https://sarkisian.teduza.com/portrait.jpg</image:loc>
       <image:title>Aleksandr Sarkisian (Sargsyan)</image:title>
@@ -17,17 +17,17 @@
     </image:image>
   </url>
   <url>
-    <loc>https://sarkisian.teduza.com/?lang=ru</loc>
+    <loc>https://sarkisian.teduza.com/ru/</loc>
     <lastmod>2026-09-24</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sarkisian.teduza.com/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://sarkisian.teduza.com/?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sarkisian.teduza.com/?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sarkisian.teduza.com/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sarkisian.teduza.com/ru/"/>
     <image:image>
       <image:loc>https://sarkisian.teduza.com/portrait.jpg</image:loc>
-      <image:title>Саркисян Александр Давидович</image:title>
-      <image:caption>Официальный портрет: Александр Саркисян, основатель M.A.R.S. COMPANION LLC</image:caption>
+      <image:title>Саркисян Александр Давидович (Саргсян)</image:title>
+      <image:caption>Официальный портрет: Александр Саркисян, выпускник КМКВК и Лицея № 410, основатель M.A.R.S. COMPANION LLC</image:caption>
     </image:image>
   </url>
 </urlset>
