@@ -10,4 +10,4 @@ Official personal website, identity graph, and intellectual property showcase of
 ## 📄 License & Intellectual Property
 
 © 2026 Aleksandr Sarkisian (Sargsyan). All rights reserved.  
-Patents: UK IPO Patent GB2611463.7 · Sequential Resource Orchestration for Real-Time Offline Speech AI.
+Intellectual Property: 26 UK IPO patent applications in sovereign offline artificial intelligence, Sequential Resource Orchestration (SRO), and decentralized edge computing.
